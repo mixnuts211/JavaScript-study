@@ -48,3 +48,4 @@
 | 7월 13일 | [이벤트, 타이머, 비동기 프로그래밍](https://github.com/mixnuts211/JavaScript-study/blob/main/230713.md)                    |
 | 7월 19일 | [Ajax, REST API, Promise, 제너레이터와 async await](https://github.com/mixnuts211/JavaScript-study/blob/main/230719.md)    |
 | 8월 09일 | [브라우저 저장소 - LocalStorage,SessionStorage,Cookie](https://github.com/mixnuts211/JavaScript-study/blob/main/230809.md) |
+| 9월 07일 | [HTTP, HTTPS](https://github.com/mixnuts211/JavaScript-study/blob/main/230907.md)                                          |
